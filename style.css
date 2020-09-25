@@ -4,7 +4,7 @@ img{
     height:15em;
     margin: 1em;
     border:2px solid orange;
-    transition: all 3s;
+    transition: all 2s;
   }
 img:hover{
     transform: translate(3em, 6em);
@@ -22,7 +22,7 @@ p{
  h1{
    font-size:2.5em;
    font-family: 'Times New Roman', Times, serif;
-   border: top 1px orangered;
+   border: 1px solid black;
    
    
 
