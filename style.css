@@ -2,7 +2,7 @@
 img{
     width:30em;
     height:15em;
-    margin: 2em;
+    margin: 1em;
     border:2px solid orange;
     transition: all 3s;
   }
