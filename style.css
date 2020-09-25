@@ -7,7 +7,7 @@ img{
     transition: all 3s;
   }
 img:hover{
-    transform: translate(50px, 100px);
+    transform: translate(3em, 6em);
 }
 div{
     display: flex;
