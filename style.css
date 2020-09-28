@@ -9,10 +9,10 @@ img{
 img:hover{
     transform: translate(3em, 6em);
 }
-div{
+.images{
     display: flex;
     flex-wrap: wrap;
-    margin: auto;
+    margin: 0 auto;
     
 }
 
